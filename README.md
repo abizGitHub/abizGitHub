@@ -1,6 +1,6 @@
-- 👋 Hi, I’m abiz , a Kotlin/Java software Developer
+- 👋 Hi, I’m abiz, a software Developer (Kotlin/Java/Rust)
 - 👀 I’m interested in solving complex and multi-thread problems- 
-- 🌱 I’m currently learning erlang and akka
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on highly concurrent projects
 - 📫 How to reach me : Abasalt.Zare@gmail.com
 
